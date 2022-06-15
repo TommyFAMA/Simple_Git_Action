@@ -31,7 +31,7 @@ public class MathTest
 
     @Test
     public void canSubstract() {
-        assertEquals(1, m.substract(2, 1));
+        assertEquals(3, m.substract(2, 1));
     }
 
     @Test
